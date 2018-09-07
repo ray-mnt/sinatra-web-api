@@ -1,1 +1,0 @@
-# SinatraによるWeb APIサーバ
